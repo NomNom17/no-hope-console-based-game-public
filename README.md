@@ -11,3 +11,4 @@ No Hope Console Based game has been superseded by a more fantastic piece of work
 
 ## Uses the following libraries
 + [SpectreConsole](https://github.com/spectreconsole/spectre.console)
++ [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
